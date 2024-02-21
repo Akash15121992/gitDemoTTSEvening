@@ -3,3 +3,5 @@ I am a Java Developer.
 Hi Class.
 
 Adding random stuff in A.txt file
+
+Added some text via github.
